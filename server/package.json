@@ -1,0 +1,8 @@
+{
+  "name": "reels-comment-server",
+  "version": "1.0.0",
+  "description": "Local Node.js server para sa Reels AI Comment extension",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
